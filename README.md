@@ -1,2 +1,1 @@
-# joaomarafuzgaspar.github.io
-Personal website.
+Personal website @ http://joaomarafuzgaspar.github.io
